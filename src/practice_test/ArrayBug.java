@@ -17,6 +17,7 @@ public class ArrayBug {
 		System.out.println(name[3]);
 		System.out.println(name[4]);
 		
+		
 	}
 
 }
